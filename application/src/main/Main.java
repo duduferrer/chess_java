@@ -1,6 +1,4 @@
 package main;
-
-
 import game.Match;
 
 public class Main {
