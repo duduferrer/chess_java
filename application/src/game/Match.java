@@ -30,6 +30,7 @@ public class Match {
     }
     private void initialSetup(){
         placeNewPiece(new Rook(board, Color.WHITE),'a', 6);
+        placeNewPiece(new Rook(board, Color.BLACK),'c', 1);
     }
 
 }

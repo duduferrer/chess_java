@@ -1,6 +1,8 @@
 package boardgame;
 
-public class Piece {
+import game.Color;
+
+public abstract class Piece {
     protected Position position;
     private Board board;
 
